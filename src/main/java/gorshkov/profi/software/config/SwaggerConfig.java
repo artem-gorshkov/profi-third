@@ -31,7 +31,7 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfo(
-                "RESTful API сервис работы с заметками", "Я профи, программная инженерия, полуфинал",
+                "RESTful API сервис для проведения промоакций и розыгрышей призов", "Я профи, программная инженерия, полуфинал",
                 "1.0", null, null, null, null, Collections.emptyList());
     }
 }
